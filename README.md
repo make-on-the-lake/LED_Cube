@@ -1,8 +1,13 @@
 # LED_Cube
 
 ## Build
-![cube](http://http://photos2.meetupstatic.com/photos/event/b/5/9/a/highres_436126490.jpeg)
+![cube](http://photos2.meetupstatic.com/photos/event/b/5/9/a/highres_436126490.jpeg?raw=true)
 
+## Laser Cut
+
+We made an appointment with the [Cleveland Public Library Makerspace](http://www.cpl.org/TheLibrary/TechCentral/TechCentralMakerSpace.aspx) to print and cut the acrylic we ordered from [McMaster-Carr](http://www.mcmaster.com/#acrylic-sheets/=wqk3t6).
+
+See the pdf of the cube design we had printed: [cube cut](https://github.com/make-on-the-lake/LED_Cube/blob/master/LED%20CUbe.pdf)
 
 ##BOM
 3@ [5mm LEDs](https://www.adafruit.com/products/754)
@@ -20,4 +25,4 @@
 
 ## Credits
 
-This was a fun project that I orrigonally found at: [instructables.com](http://www.instructables.com/id/LED-Cube-Night-Light/). Our version was modified to be lasor cut and have more controll with a better switch.
+This was a fun project that I orrigonally found at: [instructables.com](http://www.instructables.com/id/LED-Cube-Night-Light/). Our version was modified to be laser cut and have more controll with a better switch.
